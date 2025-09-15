@@ -2,12 +2,12 @@
 
 # **Hacker-Hook 2.9**
 
-+ **`Hacker-Hook`** v2.9 is a phishing script tool created by [**Johnsmith**](https://github.com/johnsmith80) on github written in shell script. This script can perform advance phishing attack, giving you the option to perform phishing so easy and convenient. Its allow you to use 38 phishing pages including Facebook, Instagram, Instafollowers, Gmail, Yahoo, Amazon, Netflix, Spotify, and the new pages added Starbucks portal and WiFi-Firmware upgrade. It also capable of host tunneling by the help of ngrok, localtunnel, and cloudflare which is use for hosting. It does the job well when it comes to hosting your hook over the network. Hacker-Hook makes it easy for pentester to perform quick phishing attack when doing a pentesting.
++ **`Hacker-Hook`** v2.9 is a phishing script tool created by [**Deautherist**](https://github.com/Deautherist) on github written in shell script. This script can perform advance phishing attack, giving you the option to perform phishing so easy and convenient. Its allow you to use 38 phishing pages including Facebook, Instagram, Instafollowers, Gmail, Yahoo, Amazon, Netflix, Spotify, and the new pages added Starbucks portal and WiFi-Firmware upgrade. It also capable of host tunneling by the help of ngrok, localtunnel, and cloudflare which is use for hosting. It does the job well when it comes to hosting your hook over the network. Hacker-Hook makes it easy for pentester to perform quick phishing attack when doing a pentesting.
 
 ## **DISCLAMER:**
 * Developers assume NO liability and NOT responsible for any misuse or damage caused by this program. Also we inform you that some of your actions may be **ILLEGAL** and you **CAN NOT** use this tool to test to a person or company without **WRITTEN PERMISSION** from them.
-+ [**ISSUE**](https://github.com/johnsmith80/Hacker-Hook/issues) and [**PULL REQUEST**](https://github.com/johnsmith80/Hacker-Hook/pulls). Feel free to give your suggestion and bugs about this tool and request for adding more sites.
-+ Check other [**RELEASES**](https://github.com/johnsmith80/Hacker-Hook/releases)
++ [**ISSUE**](https://github.com/Deautherist/Hacker-Hook/issues) and [**PULL REQUEST**](https://github.com/Deautherist/Hacker-Hook/pulls). Feel free to give your suggestion and bugs about this tool and request for adding more sites.
++ Check other [**RELEASES**](https://github.com/Deautherist/Hacker-Hook/releases)
 
 ## **HACKER-HOOK FEATURES:**
 + Advance 38 Phishing Pages
@@ -52,7 +52,7 @@
 
 ## INSTALLATION & USAGE:
 ```
-  git clone https://github.com/johnsmith80/Hacker-Hook.git
+  git clone https://github.com/Deautherist/Hacker-Hook.git
   cd Hacker-Hook
   unzip webpage.zip
   chmod u+x hackerhook.sh or chmod 777 hackerhook.sh
