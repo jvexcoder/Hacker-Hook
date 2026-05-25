@@ -717,9 +717,9 @@ else
         printf "${Red}[🪝${Red}]${BWhite}the ngrok Terms of Service, even when used for educational purposes only. As a result, we didn't include \n"
         printf "${Red}[🪝${Red}]${BWhite}ngrok on our repo but the option to use it is still available, note that using ngrok might cause your account \n"
         printf "${Red}[🪝${Red}]${BWhite}for banned. We assume NO liability and are NOT responsible for your account getting banned. \n\n"
-        printf "${Red}[${Blue}N${Red}]${BGreen} NGROK ${Green}server ${BYellow}(${BRed}Not Recomended${BYellow})\n"
-        printf "${Red}[${Blue}L${Red}]${BGreen} Local Tunnel ${Green}server ${BYellow}(${BBlue}Sometimes Doesnt Work.${BYellow})\n"
-        printf "${Red}[${Blue}C${Red}]${BGreen} Cloudflare ${Green}server ${BYellow}(${BGreen}Beta version.${BYellow})\n"
+        printf "${Red}[${Blue}N${Red}]${BGreen} NGROK ${Green}server ${BYellow}(${BRed}Not Recomended.${BYellow})\n"
+        printf "${Red}[${Blue}L${Red}]${BGreen} Local Tunnel ${Green}server ${BYellow}(${BBlue}Sometimes failed Work.${BYellow})\n"
+        printf "${Red}[${Blue}C${Red}]${BGreen} Cloudflare ${Green}server ${BYellow}(${BGreen}Recommended.${BYellow})\n"
         printf "${Red}[${Blue}B${Red}]${BGreen} Back\n${BCyan}"
         echo ""
         read -p "[🪝]Host Server: " host
