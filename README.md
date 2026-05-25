@@ -67,7 +67,7 @@
 ```
 
 ## ABOUT HOST TUNNELING:
-+ Make sure to sign up and register your [`NGROK`](https://ngrok.com/) API key before running, ngrok doesn't work without API key. [NGROK](https://ngrok.com/) can detect phishing site which then could end of disabling your API key, I suggest using a dummy email when registering for [ngrok](https://ngrok.com/) account.
++ Make sure to sign up and register your [`NGROK`](https://ngrok.com/) API key before running, ngrok doesn't work without API key. [NGROK](https://ngrok.com/) can detect phishing site which then could end of disabling your API key, I suggest using a dummy email when registering for [ngrok](https://ngrok.com/) account. [officially remove on the repository, ngrok will still be available on the program, user can install ngrok manually on the official page.](https://ngrok.com/blog/how-ngrok-actively-combats-phishing-attacks)
 + `Localtunnel` might not work most of the time, If you encounter an error localtunnel didn't give you any link. It might be because of localtunnel service is down. Its happen most of the time since I use it more often than `ngrok` and `cloudflare`, The only disadvanges of localtunnel was Its give a warning portal that people should click before they get into the `phish` site your using.
 + `Cloudflare` work all the time. like ngrok, cloudflare also detect a phishing site which could give you a head bump when using cloudflare the second time. They might not detect it in the first time you run but running again with the same page might end up being blocked by cloudflare.
 
